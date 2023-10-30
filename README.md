@@ -28,7 +28,7 @@
     <div>
         <h3 align="left">Connect with me :email:</h3>
         <p align="left">
-            <a href="mailto:mishozz@mail.bg?">
+            <a href="mailto:#?">
                 <img src="https://github.com/Mishozz99/mishozz/assets/85507538/ef22c9ec-ecf4-4cee-a368-996e7e1e3e3b"/>
             </a>
         </p>
